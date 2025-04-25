@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+numpy
+matplotlib
+seaborn
+bcrypt
+Pillow
+customtkinter
